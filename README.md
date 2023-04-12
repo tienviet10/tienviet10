@@ -21,6 +21,9 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp; 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp; 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> &nbsp; 
+<a href="https://auth0.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231492969-a97bd3fd-a9c2-4355-89bb-c1ef17fdc506.svg" width="36" height="36" alt="Auth0" /></a> &nbsp; 
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231494750-dfc1cec6-d81b-421b-abca-88319b436cb6.svg" width="36" height="36" alt="Stripe" /></a> &nbsp; 
+<a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231495252-821e3b75-1a4c-4d67-a9c7-ca3b4af6618a.svg" width="36" height="36" alt="Socket.io" /></a> &nbsp; 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> &nbsp; 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp; 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> &nbsp; 
@@ -48,7 +51,6 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 
 <p align="left">
   Testing: &nbsp;
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231492969-a97bd3fd-a9c2-4355-89bb-c1ef17fdc506.svg" width="36" height="36" alt="Dart" /></a>
 </p>
 
 
