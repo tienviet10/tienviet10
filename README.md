@@ -54,8 +54,13 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 
 <p align="left">
   Testing: &nbsp;
-</p>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231503548-9f7138fb-9785-4f0f-8be4-33cf8d49b348.svg" width="36" height="36" alt="Jest" /></a> &nbsp; 
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231503960-237addd3-78a2-4c44-a837-bd57c921cf65.svg" width="36" height="36" alt="Storybook" /></a> &nbsp; 
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231504823-669083f4-3d07-4e0a-9015-c9ec622328e9.svg" width="36" height="36" alt="Cypress" /></a> &nbsp; 
 
+<a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231506135-4985f3f8-b95b-43c3-8e80-fe28e827d984.svg" width="36" height="36" alt="RSpec" /></a> &nbsp; 
+
+</p>
 
 <p align="left">
   Mobile:
@@ -66,11 +71,8 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 <p align="left">
   Others: &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp; 
-  
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231501045-7ffc5c78-1cd1-49eb-bbbe-861f8d9c363c.png" width="36" height="36" alt="Docker" /></a> &nbsp; 
 <a href="https://aws.amazon.com/free/?trk=c8882cbf-4c23-4e67-b098-09697e14ffd9&sc_channel=ps&ef_id=CjwKCAjwrdmhBhBBEiwA4Hx5g8ZGZveaWN9J90UIgo0noanlVVSzEQHGt7y_ABrYnrCRQ4I9gSw0yxoCfg0QAvD_BwE:G:s&s_kwcid=AL!4422!3!453053794281!e!!g!!aws%20services!10706954804!104359293503/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231502612-b369422a-91e5-4b01-8c10-774532271202.svg" width="36" height="36" alt="AWS web services" /></a> &nbsp; 
-
-  
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
