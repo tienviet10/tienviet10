@@ -41,6 +41,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231497806-79f5db98-1df9-420e-ba6c-52c643e13123.svg" width="36" height="36" alt="Prisma" /></a> &nbsp; 
 <a href="https://pptr.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231499321-7a1677c5-56df-4634-aa15-f493032c840a.svg" width="36" height="36" alt="Puppeteer" /></a> &nbsp; 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a> &nbsp; 
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231507923-c683dbaa-43d3-4e69-a2f5-80de85288fd2.svg" width="36" height="36" alt="Ruby on Rails" /></a> &nbsp;  
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 </p>
 
@@ -61,7 +62,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 </p>
 
 <p align="left">
-  Mobile:
+  Mobile: &nbsp;
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> &nbsp; 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
