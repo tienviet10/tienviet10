@@ -81,6 +81,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 <a href="https://www.github.com/tienviet10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp; 
 <a href="https://www.linkedin.com/in/viettran94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
