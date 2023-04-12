@@ -57,9 +57,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231503548-9f7138fb-9785-4f0f-8be4-33cf8d49b348.svg" width="36" height="36" alt="Jest" /></a> &nbsp; 
 <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231503960-237addd3-78a2-4c44-a837-bd57c921cf65.svg" width="36" height="36" alt="Storybook" /></a> &nbsp; 
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231504823-669083f4-3d07-4e0a-9015-c9ec622328e9.svg" width="36" height="36" alt="Cypress" /></a> &nbsp; 
-
 <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231506135-4985f3f8-b95b-43c3-8e80-fe28e827d984.svg" width="36" height="36" alt="RSpec" /></a> &nbsp; 
-
 </p>
 
 <p align="left">
