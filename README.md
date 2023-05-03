@@ -186,11 +186,11 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
   <tr>
     <td>Backend</td>
     <td align="center" height="108" width="108">
-      <a href="http://www.github.com/tienviet10"><img src="https://github-readme-stats.vercel.app/api?username=tienviet10&show_icons=true&hide=stars,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tienviet10's GitHub stats" /></a>
+      <a href="https://www.github.com/tienviet10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
       <br /><strong>GitHub Stats</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="http://www.github.com/tienviet10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tienviet10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="LinkedIn"/></a>
+      <a href="https://www.linkedin.com/in/viettran94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
       <br /><strong>LinkedIn</strong>
     </td>
   </tr>  
