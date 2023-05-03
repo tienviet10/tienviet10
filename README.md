@@ -12,6 +12,8 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 *   🧠  I'm learning Graphql and Ruby on Rails
 *   ⚡  I love playing badminton. Would you like to join me for a few games?
 
+<br>
+
 ### Skills
 
 <table>  
@@ -180,6 +182,8 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
   </tr>   
 </table>
 
+<br>
+
 ### Socials
 
 <table>  
@@ -199,6 +203,8 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
     </td>
   </tr>  
 </table>
+
+<br>
 
 ### Badges
 
