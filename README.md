@@ -19,9 +19,60 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
     <td>Frontend</td>
     <td align="center" height="108" width="108">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-      <br /><strong>HTML</strong>
+      <br /><strong>React</strong>
     </td>
-  
+    <td align="center" height="108" width="108">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+      <br /><strong>JavaScript</strong>
+    </td> 
+    <td align="center" height="108" width="108">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+      <br /><strong>Redux</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://auth0.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231492969-a97bd3fd-a9c2-4355-89bb-c1ef17fdc506.svg" width="36" height="36" alt="Auth0" /></a>
+      <br /><strong>Auth0</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231494750-dfc1cec6-d81b-421b-abca-88319b436cb6.svg" width="36" height="36" alt="Stripe" /></a>
+      <br /><strong>Stripe</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231495252-821e3b75-1a4c-4d67-a9c7-ca3b4af6618a.svg" width="36" height="36" alt="Socket.io" /></a>
+      <br /><strong>Socket.io</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+      <br /><strong>jQuery</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+      <br /><strong>Tailwind CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+      <br /><strong>Material UI</strong>
+    </td>
   </tr>
     
   <tr>
