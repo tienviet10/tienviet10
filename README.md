@@ -1,4 +1,4 @@
-<h1 align="center">Viet Tran</h1>
+<h1 align="center">Viet Tran</h1> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h2 align="center">Full-Stack Developer</h2>
 
 <br>
