@@ -206,9 +206,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
 
 <br>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/tienviet10"><img src="https://github-readme-stats.vercel.app/api?username=tienviet10&show_icons=true&hide=stars,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tienviet10's GitHub stats" /></a>
 
