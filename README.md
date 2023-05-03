@@ -1,8 +1,5 @@
 <h1 align="center">Viet Tran</h1>
-============================================================================================================================
-
-Full Stack Web Developer
-------------------------
+<h2 align="center">Full-Stack Developer</h2>
 
 As a tech enthusiast, I have a keen interest in exploring and learning about new technologies. With a solid background in programming and testing, I find pleasure in working with teams to create innovative solutions to intricate issues.
 
