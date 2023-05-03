@@ -187,7 +187,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
     <td>Backend</td>
     <td align="center" height="108" width="108">
       <a href="https://www.github.com/tienviet10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-      <br /><strong>GitHub Stats</strong>
+      <br /><strong>GitHub</strong>
     </td>
     <td align="center" height="108" width="108">
       <a href="https://www.linkedin.com/in/viettran94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
