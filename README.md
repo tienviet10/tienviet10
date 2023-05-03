@@ -76,12 +76,57 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
   </tr>
     
   <tr>
-    <td>Frameworks & Libraries</td>      
+    <td>Backend</td>
+    <td align="center" height="108" width="108">
+      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+      <br /><strong>Express.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231497806-79f5db98-1df9-420e-ba6c-52c643e13123.svg" width="36" height="36" alt="Prisma" /></a>
+      <br /><strong>Prisma</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://pptr.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231499321-7a1677c5-56df-4634-aa15-f493032c840a.svg" width="36" height="36" alt="Puppeteer" /></a>
+      <br /><strong>Puppeteer</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
+      <br /><strong>Ruby</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231507923-c683dbaa-43d3-4e69-a2f5-80de85288fd2.svg" width="36" height="36" alt="Ruby on Rails" /></a>
+      <br /><strong>Ruby on Rails</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+      <br /><strong>GraphQL</strong>
+    </td>
   </tr>  
    
   <tr>
     <td>Databases</td>  
+    <td align="center" height="108" width="108">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+      <br /><strong>Firebase</strong>
+    </td>
   </tr>
+
   <tr>
     <td>Mobile Development</td>
   </tr>
