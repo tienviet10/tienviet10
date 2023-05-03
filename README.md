@@ -55,6 +55,10 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
       <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
       <br /><strong>HTML5</strong>
     </td>
+  </tr>
+
+  <tr>
+    <td>Styling</td>
     <td align="center" height="108" width="108">
       <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
       <br /><strong>CSS3</strong>
@@ -74,6 +78,10 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
     <td align="center" height="108" width="108">
       <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
       <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://ant.design/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/236051491-32dbe4e1-47e9-41a1-9952-0b1bae48373e.svg" width="36" height="36" alt="Ant Design" /></a>
+      <br /><strong>Ant Design</strong>
     </td>
   </tr>
     
@@ -159,6 +167,10 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
       <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/231506135-4985f3f8-b95b-43c3-8e80-fe28e827d984.svg" width="36" height="36" alt="RSpec" /></a>
       <br /><strong>RSpec</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/236051693-13a55040-1925-46a5-aa88-e8325d073d33.svg" width="36" height="36" alt="Vitest" /></a>
+      <br /><strong>Vitest</strong>
+    </td>
   </tr>  
   
   <tr>
@@ -180,28 +192,6 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
       <br /><strong>Python</strong>
     </td>
   </tr>   
-</table>
-
-<br>
-
-### Socials
-
-<table>  
-  <tr>
-    <td>Backend</td>
-    <td align="center" height="108" width="108">
-      <a href="https://www.github.com/tienviet10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-      <br /><strong>GitHub</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://www.linkedin.com/in/viettran94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-      <br /><strong>LinkedIn</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <a href="https://viettran.tk/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/236049010-7303ca5b-7903-4b0d-ad9a-c8a37cd5cf2c.svg" width="32" height="32" /></a>
-      <br /><strong>Website</strong>
-    </td>
-  </tr>  
 </table>
 
 <br>
