@@ -194,7 +194,7 @@ As a tech enthusiast, I have a keen interest in exploring and learning about new
       <br /><strong>LinkedIn</strong>
     </td>
     <td align="center" height="108" width="108">
-      <a href="https://viettran.tk/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/236048534-0e0c006b-1d7a-479c-9034-6d6210242252.png" width="32" height="32" /></a>
+      <a href="https://viettran.tk/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/70352144/236049010-7303ca5b-7903-4b0d-ad9a-c8a37cd5cf2c.svg" width="32" height="32" /></a>
       <br /><strong>Website</strong>
     </td>
   </tr>  
