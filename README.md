@@ -6,7 +6,7 @@
 As a tech enthusiast, I have a keen interest in exploring and learning about new technologies. With a solid background in programming and testing, I find pleasure in working with teams to create innovative solutions to intricate issues.
 
 *   🌍  I'm based in Canada
-*   🖥️  See my portfolio at [viettran.tk](http://viettran.tk)
+*   🖥️  See my portfolio at [tienviettran.com](http://tienviettran.com)
 *   ✉️  You can contact me at [viettran101294@gmail.com](mailto:viettran101294@gmail.com)
 *   🔭 I’m currently working on Game List
 *   🧠  I'm learning Graphql and Ruby on Rails
